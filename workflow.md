@@ -84,10 +84,10 @@ AI情报收集的标准执行流程
 
 ## 飞书表格信息
 
+- 表名: AI_共通_清单_AI情报追踪库_20260320_v01_现行
 - app_token: BQnBbWs2Uah2G7sDJBccf7OXnSf
 - table_id: tblG3DIedqR6X397
 - 链接: https://vcnx822kmy83.feishu.cn/base/BQnBbWs2Uah2G7sDJBccf7OXnSf
-- 表名: AI_共通_清单_AI情报追踪库_20260320_v01_现行
 
 ---
 
